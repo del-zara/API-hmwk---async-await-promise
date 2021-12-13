@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div{
+    margin-left: 25% ;
+    width: 50%;
+    height: 20%;
+    background: lightsteelblue;
+}
+
+
+h3{
+    font-size: 1.6rem;
+    margin: 1% 0% 1% 0%;
+    padding: 2% 0% 1% 0%;
+    text-align: center; 
+    color: royalblue;
+    
+
+
+}
+
+p{  
+    margin-left: 25%;
+    width: 50%;
+    height: 20%;
+    background-color: lightslategray;
+    font-size: 1.2rem;
+    text-align: center;
+    color: white;
+
+
+}
